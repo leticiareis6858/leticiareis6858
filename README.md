@@ -5,7 +5,7 @@
   </h1>
   
   <p align="center">
-    Curso Análise e Desenvolvimento de Sistemas e sou futura desenvolvedora back-end!     
+    Estou cursando Análise e Desenvolvimento de Sistemas e sou futura desenvolvedora back-end!     
   </p>
   
   <p align="center">
@@ -18,6 +18,7 @@
   <a href="https://github.com/leticiareis6858">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=leticiareis6858&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiareis6858&theme=dracula&hide_border=false&&layout=compact"/>
+     <img align="right" width="120" height="120" src="https://media3.giphy.com/media/13THeOXYzh24o0/giphy.webp?cid=ecf05e47imlbpkrw3otmg7ydm11kjlchcmgdz02coea6rtnv&rid=giphy.webp&ct=g">
   </a>
 </div>
 
