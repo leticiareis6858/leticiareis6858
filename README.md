@@ -1,15 +1,11 @@
 <div>
   
   <h1 align="center">
-    Oii! Eu sou a Ana Leticia 😃️
+    Oi! Eu sou a Ana Leticia 😃️
   </h1>
   
   <p align="center">
     Estou cursando Análise e Desenvolvimento de Sistemas e sou futura desenvolvedora back-end!     
-  </p>
-  
-  <p align="center">
-   
   </p>
   
 </div>
