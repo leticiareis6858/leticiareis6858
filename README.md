@@ -1,7 +1,7 @@
 <h1 align="center">Oii, eu sou a Ana Leticia👋</h1>
 <h3 align="center">Sou estudante de Análise e Desenvolvimento de Sistemas e sou futura desenvolvedora back-end.</h3>
 
-- 🌱 No momento estou aprendendo sobre **Java, JavaScript e NodeJs**
+- 🌱 No momento estou aprendendo sobre **Java, JavaScript, Typescript e NodeJs**
 
 <div align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leticiareis6858&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="leticiareis6858"/>
