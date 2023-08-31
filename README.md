@@ -4,7 +4,7 @@
 - 🌱 No momento estou aprendendo sobre **Java, JavaScript e NodeJs**
 
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ana-leticia-vieira&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="ana-leticia-vieira"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leticiareis6858&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="leticiareis6858"/>
  </div>
  
  <div align="center">
