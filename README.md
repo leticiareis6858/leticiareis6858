@@ -1,5 +1,5 @@
 <h1 align="center">Oii, eu sou a Ana Leticia👋</h1>
-<h3>Sou estudante de Análise e Desenvolvimento de Sistemas e sou futura desenvolvedora back-end.</h3>
+<h3>Sou estudante de Análise e Desenvolvimento de Sistemas e desenvolvedora back-end.</h3>
 
 - 🌱 No momento estou aprendendo sobre **Java, NodeJS, Typescript e JavaScript.**
 
