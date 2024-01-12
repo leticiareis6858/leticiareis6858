@@ -6,12 +6,15 @@
  
  - 🌱 No momento estou aprendendo sobre **Java, NodeJS, Typescript e JavaScript**
 
+<img align="right" src="https://i.pinimg.com/originals/87/df/6d/87df6d60f4cc3c07968ae2127bddcc30.gif">
 
-<div align="center">
- <img src="https://github-readme-stats-one-lyart-28.vercel.app/api?username=leticiareis6858&show_icons=true&theme=onedark" alt="github stats" />
- <img src="https://github-readme-stats-one-lyart-28.vercel.app/api/top-langs?username=leticiareis6858&show_icons=true&theme=onedark&locale=en&layout=compact" alt="top languages"/>
- </div>
- 
+<div>
+<img src="https://github-readme-stats-one-lyart-28.vercel.app/api?username=leticiareis6858&show_icons=true&theme=darcula" alt="github stats" />
+<img src="https://github-readme-stats-one-lyart-28.vercel.app/api/top-langs?username=leticiareis6858&show_icons=true&theme=darcula&locale=en&layout=compact" alt="top languages" />
+</div>
+
+<h2 align="center">✨Meus conhecimentos:✨</h2>
+
 <div align="center"> 
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/></a>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/></a>
