@@ -1,7 +1,12 @@
-<h1 align="center">Oii! Eu sou a Ana Leticia👋</h1>
-<h3>Sou estudante de Análise e Desenvolvimento de Sistemas e desenvolvedora back-end.</h3>
 
-- 🌱 No momento estou aprendendo sobre **Java, NodeJS, Typescript e JavaScript.**
+<h1 align="center">Oii! Eu sou a Ana Leticia👋</h1>
+
+<a><img src="https://i.pinimg.com/originals/6e/85/f7/6e85f7e0111ac569249afb790efff78f.gif" width="450" height="400" align="right"/></a>
+
+<h3 align="left">Sou desenvolvedora back-end e estudante de Análise e Desenvolvimento de Sistemas</h3>
+
+
+- 🌱 No momento estou aprendendo sobre **Java, NodeJS, Typescript e JavaScript**
 
 <div align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leticiareis6858&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="leticiareis6858"/>
