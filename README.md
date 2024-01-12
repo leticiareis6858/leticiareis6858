@@ -1,5 +1,5 @@
 
-<h1 align="center">Oii! Eu sou a Ana Leticia👋</h1>
+<h1 align="center">Oii! Eu sou a Ana Leticia 👋</h1>
 
 <h3 align="center">Sou desenvolvedora back-end e estudante de Análise e Desenvolvimento de Sistemas</h3>
 
@@ -15,7 +15,7 @@
   </div>
 </div>
 
-<h2 align="center">✨Meus conhecimentos:✨</h2>
+<h2 align="center">✨ Meus conhecimentos: ✨</h2>
 
 <div align="center"> 
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/></a>
