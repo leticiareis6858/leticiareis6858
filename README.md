@@ -6,6 +6,7 @@
  
  - 🌱 No momento estou aprendendo sobre **Java, NodeJS, Typescript e JavaScript**
 
+--------
 <div>
   <img align="right" src="https://i.pinimg.com/originals/87/df/6d/87df6d60f4cc3c07968ae2127bddcc30.gif" width="300" height="300">
   
@@ -14,6 +15,8 @@
     <img src="https://github-readme-stats-one-lyart-28.vercel.app/api/top-langs?username=leticiareis6858&show_icons=true&theme=darcula&locale=en&layout=compact" alt="top languages" />
   </div>
 </div>
+
+--------
 
 <h2 align="center">✨ Meus conhecimentos: ✨</h2>
 
