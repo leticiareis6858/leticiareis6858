@@ -1,5 +1,5 @@
 
-<h1 align="center">Oii! Eu sou a Ana Leticia 👋</h1>
+<h1 align="center">Oi! Eu sou a Ana Leticia 👋</h1>
 
 <h3 align="center">Sou desenvolvedora back-end e estudante de Análise e Desenvolvimento de Sistemas</h3>
 
