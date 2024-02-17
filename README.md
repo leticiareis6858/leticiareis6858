@@ -1,9 +1,9 @@
 
-<h1 align="center">Oi! Eu sou a Ana Leticia 👋</h1>
+<h1 align="center">Oi! Eu sou a Ana Leticia 👋🧡</h1>
 
 <h3 align="center">Sou desenvolvedora back-end e estudante de Análise e Desenvolvimento de Sistemas</h3>
 
- 
+ - 📚 Estudando Análise e Desenvolvimento de Sistemas na UNINTER.
  - 🌱 No momento estou aprendendo sobre **Java, NodeJS, Typescript e banco de dados SQL e NoSQL.**
 
 <div>
