@@ -3,7 +3,7 @@
 
 <h3 align="center">Sou desenvolvedora back-end e estudante de Análise e Desenvolvimento de Sistemas</h3>
 
- - 🌱 No momento estou estudando sobre **Java** e **Spring**.
+ - 🌱 No momento estou aprendendo sobre **Python**.
 
 <div>
   <img align="right" src="https://i.pinimg.com/originals/87/df/6d/87df6d60f4cc3c07968ae2127bddcc30.gif" width="300" height="300">
