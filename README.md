@@ -1,7 +1,7 @@
 
 <h1 align="center">Oi! Eu sou a Ana Leticia 👋🧡</h1>
 
-<h3 align="center">Sou desenvolvedora back-end e estudante de Análise e Desenvolvimento de Sistemas</h3>
+<h3 align="center">Sou desenvolvedora back-end e graduanda em Análise e Desenvolvimento de Sistemas</h3>
 
 <div>
   <img align="right" src="https://i.pinimg.com/originals/87/df/6d/87df6d60f4cc3c07968ae2127bddcc30.gif" width="300" height="300">
