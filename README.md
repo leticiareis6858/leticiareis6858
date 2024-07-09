@@ -33,6 +33,9 @@
   </p>
 </div>
 
+### 🔗 Meu portfólio: 
+https://leticiareis6858.github.io/portfolio/
+
 <details>
   <summary>Github Stats 💻</summary>
   <img src="https://github-readme-stats-one-lyart-28.vercel.app/api?username=leticiareis6858&show_icons=true&theme=darcula" alt="github stats" />
