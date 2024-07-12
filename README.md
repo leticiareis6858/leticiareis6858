@@ -28,8 +28,7 @@
 ### 🌎 Conecte-se comigo: 🌎
 <div align="left">
   <p>
-    <a href="https://linkedin.com/in/analeticia6858" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="linkedin" width="50" height="50"/></a>
-    <a href="mailto: leticiareisvr2@gmail.com" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" alt="gmail" width="50" height="50"/></a>
+    <a href="https://linkedin.com/in/analeticia6858" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="linkedin" width="40" height="40"/></a>
   </p>
 </div>
 
