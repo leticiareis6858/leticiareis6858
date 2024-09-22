@@ -1,7 +1,7 @@
 # *Hello world!* 👋🧡
 
 **Eu sou a Ana Leticia!** Sou desenvolvedora back-end com foco em NodeJS e Java. 👩🏻‍💻
-<p> No momento estou concluindo minha graduação em Análise e Desenvolvimento de Sistemas e buscando por uma oportunidade como Trainee ou Júnior 🚀</p>
+<p> No momento estou concluindo minha graduação em Análise e Desenvolvimento de Sistemas e estudando sobre C# 🚀</p>
 
 <div>
   <img align="right" src="https://i.pinimg.com/originals/87/df/6d/87df6d60f4cc3c07968ae2127bddcc30.gif" width="300" height="300" alt="gif">
