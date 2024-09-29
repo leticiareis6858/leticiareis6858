@@ -11,6 +11,7 @@
   <a><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="nodejs" width="40" height="40"/></a>
   <a><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="java" width="40" height="40"/></a>
   <a><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg" alt="spring" width="40" height="40"/></a>
+  <a><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" alt="csharp" width="40" height="40"/></a>
   <a><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" alt="typescript" width="40" height="40"/></a> 
   <a><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="40" height="40"/></a>
   <a><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html" width="40" height="40" /></a>
@@ -23,6 +24,7 @@
   <a><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Eclipse-Dark.svg" alt="eclipse" width="40" height="40"/></a>
   <a><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg" alt="intellij idea" width="40" height="40"/></a>
   <a><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="vs code" width="40" height="40"/></a>
+  <a><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" alt="visual studio" width="40" height="40"/></a>
 </div>
 
 ### 🌎 Conecte-se comigo: 🌎
