@@ -34,8 +34,9 @@
   </p>
 </div>
 
-### 🔗 Meu portfólio: 
-https://leticiareis6858.github.io/portfolio/
+<!-- ### 🔗 Meu portfólio: 
+https://leticiareis6858.github.io/portfolio/ -->
+
 
 <details>
   <summary>Github Stats 💻</summary>
